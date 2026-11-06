@@ -1,5 +1,5 @@
 name: "Padel"
-description: "The coin of the Padel AI project, which analyzes match videos, creates highlights, tracks player stats, and helps players improve."
+description: "This is Padel AI project coin. We analyzes padel match videos, creates highlights, tracks player stats, and helps players improve."
 image: "https://raw.githubusercontent.com/DriveCoin/padel/refs/heads/main/padelIcon256.png"
 address: "EQCHpAoczO1wIJPJ0f28LYrdyrS2vZGdKRYPpaLXVsmL0qgX"
 symbol: "PADEL"
